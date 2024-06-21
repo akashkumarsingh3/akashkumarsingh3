@@ -33,7 +33,7 @@
 
 - :seedling: Exploring Web Dev and Video Editing.
 
-- 🏏: In my free time, I love to play Basketball.
+- : In my free time, I love to play Basketball.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-4855ba304/)
 
